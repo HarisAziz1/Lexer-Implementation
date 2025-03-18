@@ -1,5 +1,4 @@
 # Lexer-Implementation
-In this project I have developed a Java Language Lexer using Python.
 <br>
 This project is a Java lexer implemented in Python, designed to tokenize Java source code without using regular expressions. Instead, it relies on pure programming logic to analyze the structure of the code and identify tokens such as keywords, identifiers, literals, operators, and symbols.
 <br>
