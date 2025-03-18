@@ -16,6 +16,7 @@ Handles multi-line and single-line comments.
 <br>
 Efficient character-by-character parsing mechanism.
 <br>
+
 # Example
 <br>
 Input (Java Source Code) <br>
@@ -32,6 +33,7 @@ x= 20;<br>
 "w0.4ssdglkwe";<br>
 'c'<br>
 #int __3$ = 20;<br>
+  
 # Output (Tokenized Representation) <br>
 -----------Tokens------------<br>
 [Line:2] [import]: Reserved Word<br>
